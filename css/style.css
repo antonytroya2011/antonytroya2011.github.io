@@ -1,0 +1,90 @@
+.carousel-inner{
+    max-height: 700px;
+    align-items: top;
+    
+}
+.ti{
+    background-image: url(/img/negro.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: black;
+}
+p{
+    text-align: justify;
+}
+.row0{
+    border: 3px solid rgb(136, 255, 0);
+}
+.row1{
+    border: 3px solid blue;
+}
+.row2{
+    border: 3px solid skyblue;
+}
+.tamano{
+    max-width: 535px;
+    max-height: 356px;
+}
+.col0{
+    border: 1px solid black;
+}
+.fondo{
+    background-image: url(/img/pl3.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.f0{
+    border: 8px solid skyblue;
+}
+.f3{
+    background-image: url(/img/tr.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.f1{
+    /*background-image: url(/img/aqua.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;*/
+    border: 8px solid rgb(136, 255, 0);
+
+}
+.bor0{
+    border: 1px solid black;
+}
+.bor{
+    border: 3px solid black;
+}
+.bor1{
+    border: 8px solid blue;
+}
+.txt{
+    color: rgb(34, 48, 149);
+    font-size: 80px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+.tet{
+    color: rgb(37, 28, 28);
+    font-size: 30px;
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+}
+.k{
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.whi{
+    color: white;
+}
+.cl{
+    color: green;
+}
+#tabs{
+    border: 2px solid blue;
+}
+
